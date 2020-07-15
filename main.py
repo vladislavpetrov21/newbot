@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot('1113282082:AAEb6XvnNQJnMj1Fdqeh55ncTH8Xn-ijUD4')
+bot = telebot.TeleBot()
 keyboard = telebot.types.ReplyKeyboardMarkup()
 key = telebot.types.ReplyKeyboardMarkup()
 keys = telebot.types.ReplyKeyboardMarkup()
